@@ -1,4 +1,7 @@
-title: Ragini Bal Mahesh
-logo: /IMG_8782.PNG
+#title: Ragini Bal Mahesh
+author: "Ragini Bal Mahesh"
+avatar: "IMG_8782.PNG"
+
+#logo: /IMG_8782.PNG
 #show_downloads: true
 theme: jekyll-theme-minimal
