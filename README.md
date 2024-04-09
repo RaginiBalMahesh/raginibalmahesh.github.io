@@ -6,3 +6,5 @@ My research interest includes satellite computer vision for earth observation an
 
 ## Publications 
 [Physics informed neural network for spatial-temporal flood forecasting](https://www.researchgate.net/profile/J-Leandro/publication/356389462_Physics_Informed_Neural_Network_for_Spatial-Temporal_Flood_Forecasting/links/62273c673c53d31ba4b1430c/Physics-Informed-Neural-Network-for-Spatial-Temporal-Flood-Forecasting.pdf)
+Ragini Bal Mahesh, Jorge Leandro, and Qing Lin
+Climate Change and Water Security, Springer
