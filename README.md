@@ -5,14 +5,18 @@ I am a doctoral researcher at the German Aerospace Center (DLR), in the Institut
 My research interest includes satellite computer vision for earth observation and driving the current innovation of physics-informed, hybrid deep learning models. My Ph.D. topic is ”DeepSAR: The fusion of deep learning and physical models for extracting biophysical parameters (Forest Height) from Synthetic Aperture Radar (SAR) data for earth observation”.
 
 ## Publications 
-[Deep Learning for Forest Canopy Height Estimation from SAR](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10281899)
+[Deep Learning for Forest Canopy Height Estimation from SAR](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10281899) <br>
 Ragini Bal Mahesh, Ronny Hänsch <br>
-IGARSS'2023| International Geoscience and Remote Sensing Symposium
+[IGARSS'2023](https://2023.ieeeigarss.org/papers/accepted_papers.php)| International Geoscience and Remote Sensing Symposium
 
-[SAR-based landslide classification pretraining leads to better segmentation](https://arxiv.org/pdf/2211.09927.pdf)
-Vanessa Böhm, Wei Ji Leong,  Ragini Bal Mahesh, Ioannis Prapas,  Edoardo Nemni, Freddie Kalaitzis, Siddha Ganju, and Raul Ramos-Pollan <br>
-NeurIPS, AO + HADR'2022| NeurIPS workshop on Artificial Intelligence for Humanitarian Assistance and Disaster Response
+Deep Learning for Rapid Landslide Detection using Synthetic Aperture Radar (SAR) Datacubes
+Ragini Bal Mahesh, Vanessa Böhm, Wei Ji Leong, Ioannis Prapas, Edoardo Nemni, Freddie Kalaitzis, Siddha Ganju, and Raul Ramos-Pollan <br>
+[NeurIPS, Climate Change AI'2022](https://www.climatechange.ai/events/neurips2022)| NeurIPS workshop on Tackling Climate Change with Machine Learning
 
-[Physics informed neural network for spatial-temporal flood forecasting](https://www.researchgate.net/profile/J-Leandro/publication/356389462_Physics_Informed_Neural_Network_for_Spatial-Temporal_Flood_Forecasting/links/62273c673c53d31ba4b1430c/Physics-Informed-Neural-Network-for-Spatial-Temporal-Flood-Forecasting.pdf)
+[SAR-based landslide classification pretraining leads to better segmentation](https://arxiv.org/pdf/2211.09927.pdf) <br>
+Vanessa Böhm, Wei Ji Leong, Ragini Bal Mahesh, Ioannis Prapas,  Edoardo Nemni, Freddie Kalaitzis, Siddha Ganju, and Raul Ramos-Pollan <br>
+[NeurIPS, AI + HADR'2022](https://www.hadr.ai/previous-versions/neurips-2022/accepted-papers-2022)| NeurIPS workshop on Artificial Intelligence for Humanitarian Assistance and Disaster Response
+
+[Physics informed neural network for spatial-temporal flood forecasting](https://www.researchgate.net/profile/J-Leandro/publication/356389462_Physics_Informed_Neural_Network_for_Spatial-Temporal_Flood_Forecasting/links/62273c673c53d31ba4b1430c/Physics-Informed-Neural-Network-for-Spatial-Temporal-Flood-Forecasting.pdf) <br>
 Ragini Bal Mahesh, Jorge Leandro, and Qing Lin <br>
 Climate Change and Water Security, Springer
