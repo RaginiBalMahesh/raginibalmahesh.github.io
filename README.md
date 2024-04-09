@@ -4,7 +4,7 @@ I am a doctoral researcher at the [German Aerospace Center (DLR)](https://www.dl
 
 My research interest includes satellite computer vision for earth observation and driving the current innovation of physics-informed, hybrid deep learning models. My Ph.D. topic is ”DeepSAR: The fusion of deep learning and physical models for extracting biophysical parameters (Forest Height) from Synthetic Aperture Radar (SAR) data for earth observation”.
 
-I graduated with a Master of Science (MSc.) from the [Technical University of Munich (TUM)](https://www.tum.de/en/) with a major in Computational Fluid Dynamics and a minor in Environmental Engineering. I have worked as an AI Researcher at [NASA- SETI Frontier Development Lab](https://frontierdevelopmentlab.org/fdl-2022), an AI research accelerator.
+I graduated with a Master of Science (MSc.) from the [Technical University of Munich (TUM)](https://www.tum.de/en/) with a major in Computational Fluid Dynamics and a minor in Environmental Engineering, with a thesis on Physics Informed Neural Network for Spatial-Temporal Flood Forecasting (grade 1/1). I have worked as an AI Researcher at [NASA- SETI Frontier Development Lab](https://frontierdevelopmentlab.org/fdl-2022), an AI research accelerator.
 ## Publications 
 [Deep Learning for Forest Canopy Height Estimation from SAR](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10281899) <br>
 Ragini Bal Mahesh, Ronny Hänsch <br>
