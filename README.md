@@ -9,7 +9,7 @@ My research interest includes satellite computer vision for earth observation an
 Ragini Bal Mahesh, Ronny Hänsch <br>
 [IGARSS'2023](https://2023.ieeeigarss.org/papers/accepted_papers.php)| International Geoscience and Remote Sensing Symposium
 
-Deep Learning for Rapid Landslide Detection using Synthetic Aperture Radar (SAR) Datacubes
+[Deep Learning for Rapid Landslide Detection using Synthetic Aperture Radar (SAR) Datacubes](https://arxiv.org/pdf/2211.02869.pdf) <br>
 Ragini Bal Mahesh, Vanessa Böhm, Wei Ji Leong, Ioannis Prapas, Edoardo Nemni, Freddie Kalaitzis, Siddha Ganju, and Raul Ramos-Pollan <br>
 [NeurIPS, Climate Change AI'2022](https://www.climatechange.ai/events/neurips2022)| NeurIPS workshop on Tackling Climate Change with Machine Learning
 
