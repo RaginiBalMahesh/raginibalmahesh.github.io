@@ -1,12 +1,13 @@
-#title: Ragini Bal Mahesh
-author: 
-  name: "Ragini Bal Mahesh"
-  avatar: "IMG_8782.PNG"
-  bio: Satellite Computer Vision
-  email: ragini.mahesh@dlr.de
-  googlescholar: "https://scholar.google.com/citations?hl=en&user=p18LkXQAAAAJ"
-  linkedin: ""
+title: Ragini Bal Mahesh
+# author: 
+#   name: "Ragini Bal Mahesh"
+#   avatar: "IMG_8782.PNG"
+#   bio: Satellite Computer Vision
+#   email: ragini.mahesh@dlr.de
+#   googlescholar: "https://scholar.google.com/citations?hl=en&user=p18LkXQAAAAJ"
+#   linkedin: ""
 
-#logo: /IMG_8782.PNG
+logo: /IMG_8782.PNG
+description: Satellite Computer Vision <br> email: ragini.mahesh@dlr.de <br> 
 #show_downloads: true
 theme: jekyll-theme-minimal
